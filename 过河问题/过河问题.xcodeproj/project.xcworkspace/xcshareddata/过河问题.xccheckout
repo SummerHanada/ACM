@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D50F97ED-4ED5-43F5-BB78-0AEDF1E81CD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>过河问题</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A553E6CDC3A740D5208EEAFB36D2045E35C4BC8</key>
+		<string>https://bitbucket.org/summerhanada/studyapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>过河问题/过河问题.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A553E6CDC3A740D5208EEAFB36D2045E35C4BC8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/summerhanada/studyapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A553E6CDC3A740D5208EEAFB36D2045E35C4BC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A553E6CDC3A740D5208EEAFB36D2045E35C4BC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudyApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
